@@ -1,4 +1,5 @@
-<br clear="both">
+
+  <br clear="both">
 
 <h6 align="center">Hey 👋 I am vinovasrikumar<br>“🎮 B.Tech CSE Student from SRM | Beginner Game Developer learning C++, Java & Game Design.”<br>💻 Skills <br>Programming: C, C++, Java<br>Tools: VS Code, Git, GitHub<br>Game Engines: Unity (Beginner)<br><br>🏫 Education: SRM Institute of Science and Technology<br>⚡ Fun fact: “I started coding to make my own games!”</h6>
 
@@ -30,20 +31,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinova-Lab/Vinova-Lab/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vinova-Lab/Vinova-Lab/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
 
 ###
 
